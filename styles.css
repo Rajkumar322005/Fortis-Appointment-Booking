@@ -131,7 +131,11 @@ body {
   justify-content: space-between;
   max-width: 1200px;
   height: 100px;
+<<<<<<< HEAD
   margin: 0 ;
+=======
+  margin: 0 auto;
+>>>>>>> 55a0161b78cb9ec3ae90b9fd32716ad1763239a8
 }
 .logo-section {
   display: flex;
